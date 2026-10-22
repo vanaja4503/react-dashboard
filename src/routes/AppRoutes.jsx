@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 import ProtectedRoute from "./ProtectedRoute";
-import DashboardLayout from "../components/layout/DashboardLayout";
+import DashboardLayout from "../components/Layout/DashboardLayout";
 
 import Login from "../pages/Login";
 import Dashboard from "../pages/Dashboard";
